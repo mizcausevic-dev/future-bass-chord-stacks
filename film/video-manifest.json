@@ -1,0 +1,26 @@
+{
+  "title": "Future Bass Chord Stacks",
+  "study": "fbs01",
+  "bpm": 150,
+  "source_audio": "preview/future-bass-chord-stacks-simple-synth-preview.mp3",
+  "source_audio_sha256": "7c02ead8dfde2e1128cbb1dd0ebef1548be68e3e6c504e8bafa28cabb176df93",
+  "source_midi": "midi/fbs01-glass-towers/fbs01-glass-towers-combined.mid",
+  "source_midi_sha256": "027773044357de3f32a4c52b6a10dd0ea366e23f174fedf4da380772fe9567c3",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "820768417583d1aa323eeacca443b5195c7d247b4245bea239601f514cc2a2f0",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "45bb6c7187e9e7e06e8df25adb0da2eb9da2e87aa92b004a97cd9b44ca41dfd6",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "61ee0904aba134bf5e65263554ece72e8897568ffff34853e5f9577a6af58b18",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
