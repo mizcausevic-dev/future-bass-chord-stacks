@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/future-bass-chord-stacks-midi.zip",
-      "bytes": 29085,
-      "sha256": "b96888e9e9cbc2efd62eb3d8b36911bef0950ff852ec45ea2f00ae70831dfad1"
+      "bytes": 30883,
+      "sha256": "27984cecda15aa9035763ce4786bd356a94180ba5edeb4394dd35ae915a1c43b"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9550,
-      "sha256": "61892e5e23b4ddb6277a5ef858f6faf95fdd3420b60ae5989810c92e875485b9"
+      "bytes": 9740,
+      "sha256": "e05a8061101fa344cab59d184f997f2889b887cc65c909d18a790ac507ae640e"
     },
     {
       "path": "midi/fbs01-glass-towers/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "3e53e1aa59507350438885ccf127e0de7e06d0128b58c30de808c0b2f3c0664c"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/future-bass-chord-stacks-simple-synth-preview.mp3",
       "bytes": 1242636,
       "sha256": "7c02ead8dfde2e1128cbb1dd0ebef1548be68e3e6c504e8bafa28cabb176df93"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3911,
-      "sha256": "6008fc5a630ecffc85c0e699b152adf3625762dcc07c38c1fd6878ca351f0ee0"
+      "bytes": 4026,
+      "sha256": "b14a8c4d10ec4445763bad1130a2a9da0f945c2052c14790edd370ac6929b20e"
     },
     {
       "path": "social/instagram/caption.txt",
